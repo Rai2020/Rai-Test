@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="NBR - TV Nacional Brasil">
+    <display-name lang="pt">NBR - TV Nacional Brasil</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TV Brasil">
+    <display-name lang="pt">TV Brasil</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TV Câmara">
+    <display-name lang="pt">TV Câmara</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TV Senado">
+    <display-name lang="pt">TV Senado</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TV Justiça">
+    <display-name lang="pt">TV Justiça</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TV Escola">
+    <display-name lang="pt">TV Escola</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+</tv>
